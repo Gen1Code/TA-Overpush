@@ -1,5 +1,5 @@
-var id = "theory_auto";
-var name = "Theory automator";
+var id = "theory_auto_Over";
+var name = "Theory automator - Overpush";
 var description = "Automates purchases and publications in theories.";
 var authors = "rus9384";
 var version = "1.6b";
